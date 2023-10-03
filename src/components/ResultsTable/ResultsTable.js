@@ -1,3 +1,4 @@
+import './ResultsTable.css';
 function ResultsTable(){
     <table className="result">
         <thead>
